@@ -14,8 +14,11 @@ class GetStartedPage extends StatelessWidget {
             width: double.infinity,
             height: double.infinity,
             decoration: const BoxDecoration(
-                image: DecorationImage(
-                    image: AssetImage('assets/image_get_started.png'))),
+              image: DecorationImage(
+                image: AssetImage('assets/image_get_started.png'),
+                fit: BoxFit.cover,
+              ),
+            ),
           ),
           Center(
             child: Column(
@@ -36,7 +39,7 @@ class GetStartedPage extends StatelessWidget {
                 BtnPrimary(
                   text: 'Get Started',
                   width: 220,
-                  margin: EdgeInsets.only(top: 50, bottom: 80),
+                  margin: const EdgeInsets.only(top: 50, bottom: 80),
                   onPressed: () {
                     Navigator.pushNamed(context, '/sign-up');
                   },
