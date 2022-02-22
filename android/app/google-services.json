@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "205941612813",
-    "project_id": "airplane-33640",
-    "storage_bucket": "airplane-33640.appspot.com"
+    "project_number": "429569495709",
+    "project_id": "airplane-691a5",
+    "storage_bucket": "airplane-691a5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:205941612813:android:78ccb16e81bd1cfe70d044",
+        "mobilesdk_app_id": "1:429569495709:android:b6899ffc2a3f11de0e7a74",
         "android_client_info": {
           "package_name": "com.lazlanrafar.airplane"
         }
       },
       "oauth_client": [
         {
-          "client_id": "205941612813-24vau5vuilu58i1122qnq8u5q4cu57cm.apps.googleusercontent.com",
+          "client_id": "429569495709-ig0t5g3hfrfbrcmvpnl0ntmfovb0ibna.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjIKcO0gL_Q-Lp1186YQyN0IuUyRulhu4"
+          "current_key": "AIzaSyDFmL_7aW9gidb1wqq39zAM2UAGbS5PGEA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "205941612813-24vau5vuilu58i1122qnq8u5q4cu57cm.apps.googleusercontent.com",
+              "client_id": "429569495709-ig0t5g3hfrfbrcmvpnl0ntmfovb0ibna.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
